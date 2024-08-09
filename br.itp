@@ -1,0 +1,9 @@
+
+[ moleculetype ]
+;name            nrexcl
+ BLZ              3
+
+[ atoms ]
+;   nr  type  resi  res  atom  cgnr     charge      mass       ; qtot   bond_type
+     1   br     1   BLZ   br    1    -0.800000     79.90400 ; qtot -1.000
+
